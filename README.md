@@ -9,4 +9,4 @@
 3. [Knapsack Optimization Using A Genetic Algorithm (Youtube Video)](https://youtu.be/TH2tgm_0b3Q)
 4. [Timetable Scheduling Using A Genetic Algorithm](https://github.com/Blaise143/Scheduling_Optimization--Genetic_Algorithm/blob/main/GeneticAlgorithm.ipynb)
 5. [Image Style Transfer](https://github.com/Blaise143/Image-Style-Transfer/blob/main/Image%20Style%20Transfer.ipynb)
-
+6. [Graph Visualization With NetworkX](https://github.com/Blaise143/Graph-Visuzlization/blob/main/NetworkX.ipynb)
