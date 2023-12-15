@@ -9,7 +9,7 @@
 2. [Knapsack Optimization Using A Genetic Algorithm (Youtube Video)](https://youtu.be/TH2tgm_0b3Q)
 3. [Timetable Scheduling Using A Genetic Algorithm](https://nbviewer.org/github/Blaise143/Scheduling_Optimization--Genetic_Algorithm/blob/main/GeneticAlgorithm.ipynb)
 4. [Image Style Transfer](https://nbviewer.org/github/Blaise143/Image-Style-Transfer/blob/main/Image%20Style%20Transfer.ipynb)
-5. [Mathematical Programming In SVM](https://nbviewer.org/github/Blaise143/Mathematical-Programming-in-Support-Vector-Machines/blob/master/Main.ipynb)
+5. [Mathematical Optimization in Support Vector Machines](https://nbviewer.org/github/Blaise143/Mathematical-Programming-in-Support-Vector-Machines/blob/master/Main.ipynb)
 6. [Combinatory Optimization VS Machine Learning (Podcast)](https://youtu.be/4CgqOa3g15o)
 7. [Graph Visualization With NetworkX](https://nbviewer.org/github/Blaise143/Graph-Visuzlization/blob/main/NetworkX.ipynb)
 
